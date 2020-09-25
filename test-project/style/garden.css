@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	/*px表示像素（pixels) 注释不可嵌套*/
+	font-size:20px;
+	font-family: bilbo ;
+}
+h1{
+	font-site:100px;
+	text-align:center;
+	color:blanchedalmond;
+	text-shadow:10px -10px 1px grey;
+	padding:inherit;
+	margin:0;
+}
+p,li,h2{
+	color:blanchedalmond;
+	font-size:30px;
+	line-height:5;
+	lette-spacing:2px;
+	text-align:center;
+}
+html{
+	background-color:#ECECE;
+	
+}
+body{
+	width:2250px;
+	height:2000px;
+	margin:auto;
+	background-color:#BEBEBE;
+	padding:inherit;
+	border:5px solid #6D6D6D;
+	
+}
+img{
+	display:block;
+	margin:0 auto;
+}
